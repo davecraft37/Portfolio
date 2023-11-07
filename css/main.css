@@ -105,21 +105,21 @@ body.no-scroll {
 }
 
 a {
-  color: #eb6165;
+  color: #594E9B;
   text-decoration: none;
   cursor: pointer;
 }
 
 a:link {
-  color: #eb6165;
+  color: #594E9B;
 }
 
 a:active {
-  color: #eb6165;
+  color: #594E9B;
 }
 
 a:visited {
-  color: #eb6165;
+  color: #594E9B;
 }
 
 a:hover {
@@ -271,7 +271,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  color: #eb6165;
+  color: #594E9B;
 }
 
 a.btn,
@@ -292,7 +292,7 @@ input[type="submit"] {
   line-height: 60px;
   text-align: center;
   text-decoration: none;
-  border: 2px solid #eb6165;
+  border: 2px solid #594E9B;
   outline: none!important;
   box-shadow: none!important;
   cursor: pointer;
@@ -309,7 +309,7 @@ input[type="submit"] {
 }
 
 input[type="submit"] {
-  background-color: #eb6165;
+  background-color: #594E9B;
 }
 
 a.btn:before,
@@ -323,7 +323,7 @@ button:before {
   top: -40%;
   width: 120%;
   height: 120%;
-  background: #eb6165;
+  background: #594E9B;
   transition: all 0.7s cubic-bezier(0.3, 0, 0.3, 1);
   -webkit-transition: all 0.7s cubic-bezier(0.3, 0, 0.3, 1);
   transform: translate3d(0, -100%, 0) skew(-10deg, -10deg);
@@ -695,7 +695,7 @@ blockquote cite br {
 
 .wp-block-calendar a {
   text-decoration: none;
-  color: #eb6165;
+  color: #594E9B;
 }
 
 .wp-block-column p:first-child,
@@ -835,8 +835,8 @@ hr {
   text-align: center;
   text-decoration: none;
   overflow-wrap: break-word;
-  background-color: #eb6165;
-  border: 1px solid #eb6165;
+  background-color: #594E9B;
+  border: 1px solid #594E9B;
   border-radius: 28px;
   color: #fff;
   cursor: pointer;
@@ -857,8 +857,8 @@ hr {
 
 .is-style-outline .wp-block-button__link {
   background-color: transparent;
-  color: #eb6165;
-  border: 1px solid #eb6165;
+  color: #594E9B;
+  border: 1px solid #594E9B;
 }
 
 .post-content .wp-block-archives {
@@ -1077,7 +1077,7 @@ hr {
   display: inline-block;
   width: 15px;
   height: 15px;
-  background: #eb6165;
+  background: #594E9B;
   border-radius: 15px;
   -webkit-animation: spinner 0.75s cubic-bezier(0.17, 0.37, 0.43, 0.67) infinite;
   animation: spinner 0.75s cubic-bezier(0.17, 0.37, 0.43, 0.67) infinite;
@@ -1569,7 +1569,7 @@ hr {
 }
 
 .nav-menu-horizontal li a:hover {
-  color: #eb6165;
+  color: #594E9B;
 }
 
 .nav-menu-horizontal li:hover>ul {
@@ -1827,7 +1827,7 @@ hr {
   top: 20px;
   width: 0;
   height: 4px;
-  background: #eb6165;
+  background: #594E9B;
   transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   -moz-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
@@ -1962,7 +1962,7 @@ hr {
 }
 
 .header .logo .logotype__title:first-letter {
-  color: #eb6165;
+  color: #594E9B;
 }
 
 .header .logo .logotype__sub {
@@ -2086,7 +2086,7 @@ hr {
   bottom: -20px;
   width: 0;
   height: 4px;
-  background: #eb6165;
+  background: #594E9B;
   transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   -moz-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
@@ -2203,7 +2203,7 @@ hr {
   display: inline-block;
   font-size: 1.25em;
   width: 0.55em;
-  color: #eb6165;
+  color: #594E9B;
   font-style: normal;
 }
 
@@ -2393,7 +2393,7 @@ hr {
 .section.full-slider .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
 .section.half-slider .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active {
   color: #FFF;
-  background: #eb6165;
+  background: #594E9B;
 }
 
 .section.main-slider .swiper-pagination .swiper-pagination-bullet.enabled,
@@ -2445,7 +2445,7 @@ hr {
   top: 50%;
   width: 0;
   height: 4px;
-  background: #eb6165;
+  background: #594E9B;
   transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   -moz-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
@@ -2634,7 +2634,7 @@ hr {
 }
 
 .m-titles .m-category a {
-  color: #eb6165;
+  color: #594E9B;
   font-weight: 700;
   text-decoration: none;
 }
@@ -2691,7 +2691,7 @@ hr {
 }
 
 .h-titles .h-subtitle.red {
-  color: #eb6165;
+  color: #594E9B;
 }
 
 .h-titles .h-text {
@@ -3056,7 +3056,7 @@ hr {
 
 .experience-carousel .slide-titles .label {
   font-size: 25px;
-  color: #eb6165;
+  color: #594E9B;
   font-weight: 900;
 }
 
@@ -3361,7 +3361,7 @@ hr {
   width: 0;
   max-width: 60%;
   height: 4px;
-  background: #eb6165;
+  background: #594E9B;
   transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   -moz-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   -webkit-transition: all 0.3s cubic-bezier(0.3, 0, 0.3, 1);
@@ -3561,7 +3561,7 @@ hr {
 }
 
 .works-item .desc .category {
-  color: #eb6165;
+  color: #594E9B;
   font-weight: 700;
   display: block;
 }
@@ -3952,7 +3952,7 @@ hr {
 }
 
 .c-list ul li strong {
-  color: #eb6165;
+  color: #594E9B;
 }
 
 .c-list ul li a {
@@ -4331,7 +4331,7 @@ hr {
 
 .archive-item .desc .category {
   margin-bottom: 10px;
-  color: #eb6165;
+  color: #594E9B;
   font-weight: 700;
 }
 
@@ -4382,7 +4382,7 @@ hr {
 .services-item .icon i {
   font-size: 72px;
   line-height: 72px;
-  color: #eb6165;
+  color: #594E9B;
 }
 
 .services-item .name {
@@ -4492,7 +4492,7 @@ hr {
 }
 
 .team-item .desc .category {
-  color: #eb6165;
+  color: #594E9B;
   font-weight: 700;
 }
 
@@ -4732,7 +4732,7 @@ a.page-numbers,
 
 a.page-numbers,
 .post-page-numbers {
-  border: 1px solid #eb6165;
+  border: 1px solid #594E9B;
 }
 
 a.page-numbers.prev {
@@ -4753,7 +4753,7 @@ a.page-numbers.next .icon-arrow {
   right: 0;
   width: 30px;
   height: 2px;
-  background: #eb6165;
+  background: #594E9B;
 }
 
 a.page-numbers.prev .icon-arrow:before,
@@ -4766,7 +4766,7 @@ a.page-numbers.next .icon-arrow:after {
   right: 0;
   width: 15px;
   height: 2px;
-  background: #eb6165;
+  background: #594E9B;
   -ms-transform: rotate(35deg);
   transform: rotate(35deg);
   -webkit-transform: rotate(35deg);
@@ -4789,8 +4789,8 @@ a.page-numbers.current,
 a.post-page-numbers.current,
 .page-numbers.current,
 .post-page-numbers.current {
-  background: #eb6165;
-  border-color: #eb6165;
+  background: #594E9B;
+  border-color: #594E9B;
 }
 
 
@@ -4890,7 +4890,7 @@ input.search-submit,
   bottom: -20px;
   width: 30px;
   height: 4px;
-  background: #eb6165;
+  background: #594E9B;
   -webkit-transition: opacity 0.3s linear, color 0.3s linear, -webkit-transform 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   transition: opacity 0.3s linear, color 0.3s linear, -webkit-transform 0.3s cubic-bezier(0.3, 0, 0.3, 1);
   -o-transition: transform 0.3s cubic-bezier(0.3, 0, 0.3, 1), opacity 0.3s linear, color 0.3s linear;
@@ -4927,7 +4927,7 @@ input.search-submit,
 
 .content-sidebar ul li a:hover,
 .post-content .wp-block-archives li a:hover {
-  color: #eb6165;
+  color: #594E9B;
   text-decoration: underline;
 }
 
@@ -4988,7 +4988,7 @@ input.search-submit,
 }
 
 .wp-block-calendar tfoot a {
-  color: #eb6165;
+  color: #594E9B;
 }
 
 .content-sidebar a {
@@ -5016,7 +5016,7 @@ input.search-submit,
   top: 12px;
   width: 5px;
   height: 1px;
-  background: #eb6165;
+  background: #594E9B;
 }
 
 .wp-block-rss {
@@ -5032,7 +5032,7 @@ input.search-submit,
 .content-sidebar ul li a.rsswidget,
 .wp-block-rss li a {
   display: block;
-  color: #eb6165;
+  color: #594E9B;
   font-weight: 900;
   text-decoration: none;
 }
@@ -5078,7 +5078,7 @@ input.search-submit,
   color: #FFF;
   text-transform: none;
   text-decoration: none;
-  border: 1px solid #eb6165;
+  border: 1px solid #594E9B;
 }
 
 .content-sidebar ul.menu {
@@ -5330,8 +5330,8 @@ small {
 }
 
 .share-post .share-btn:hover {
-  color: #eb6165;
-  border-color: #eb6165;
+  color: #594E9B;
+  border-color: #594E9B;
 }
 
 .share-post .share-btn span {
@@ -5423,7 +5423,7 @@ form.post-password-form label {
 }
 
 .post-password-form input[type="submit"] {
-  background-color: #eb6165;
+  background-color: #594E9B;
   border: 0;
   border-radius: 5rem;
   color: #fff;
@@ -5539,7 +5539,7 @@ form.post-password-form label {
 }
 
 .is-style-outline>.wp-block-button__link:not(.has-text-color), .wp-block-button__link.is-style-outline:not(.has-text-color) {
-  color: #eb6165;
+  color: #594E9B;
 }
 
 a.wp-block-button__link {
@@ -5579,7 +5579,7 @@ a.wp-block-button__link {
 }
 
 .error-page__num {
-  color: #eb6165;
+  color: #594E9B;
   font-size: 220px;
   display: block;
   height: auto;
